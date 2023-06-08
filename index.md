@@ -25,3 +25,19 @@ import datetime
 for i in range(20):
   print(datetime.now())
 ```
+
+## Creating a list (w markdown effect)
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+- [ ] This item is not complete
+- [ ] This item is not complete
+- [ ] Item
+- [X] ITem 2
+- [ ] item 3
+- [ ] item 4
+- [ ] item 8
+
+
+
