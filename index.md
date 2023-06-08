@@ -14,3 +14,15 @@ I am using markdown to show my markdown skills
 
 ![Image i found on wikipedia](https://en.wikipedia.org/wiki/Image#/media/File:Image_created_with_a_mobile_phone.png)
 ##### This did not return a valid image (wikipedia)
+
+
+### I am adding some Code snippets below
+'''
+pip install math
+
+import datetime 
+
+for i in range(20):
+  print(datetime.now())
+ 
+'''
