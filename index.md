@@ -17,12 +17,11 @@ I am using markdown to show my markdown skills
 
 
 ### I am adding some Code snippets below
-'''
+```
 pip install math
 
 import datetime 
 
 for i in range(20):
   print(datetime.now())
- 
-'''
+```
