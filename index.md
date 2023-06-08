@@ -6,3 +6,11 @@
 
 I have made some changes in this document just to show how i am gettting along!
 I am using markdown to show my markdown skills
+
+
+### HEADER 3: I will be adding an image below
+
+![Image of a cat that i found on github](https://octodex.github.com/images/yaktocat.png)
+
+![Image i found on wikipedia](https://en.wikipedia.org/wiki/Image#/media/File:Image_created_with_a_mobile_phone.png)
+##### This did not return a valid image (wikipedia)
